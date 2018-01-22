@@ -1,5 +1,5 @@
 # AngularFightersAuth
-## Authentication Server for OAuth2
+## OAuth2 Authentication Server for the [AngularFightersFrontend](https://github.com/haxhaagn15/AngularFightersFrontend) Project
 
 ### Usage
 - have the [Java 8 JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) installed
